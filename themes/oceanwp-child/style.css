@@ -15,6 +15,9 @@ Theme Name:   OceanWP Child
   body {  
       margin-left:10% !important;
       margin-right: 10% !important;
-      
   }
- 
+  
+  h1 {
+      font-weight: normal !important;
+      font-family: 'Libre Baskerville', serif !important;
+   }
